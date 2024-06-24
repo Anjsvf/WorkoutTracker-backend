@@ -1,5 +1,5 @@
 Backend Documentation
-This is the backend server for [Your Application Name]. It provides RESTful APIs to interact with a MongoDB database.
+This is the backend server for [fitness-tracker]. It provides RESTful APIs to interact with a MongoDB database.
 
 Table of Contents
 Setup
