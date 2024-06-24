@@ -1,4 +1,4 @@
 {
-    "mongoURL": "mongodb+srv://antonio:fIKk4pe8ML2hQevB@cluster0.ir1gltd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "mongoURI": "mongodb+srv://antonio:fIKk4pe8ML2hQevB@cluster0.ir1gltd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "jwtSecret": "123144323"
 }
